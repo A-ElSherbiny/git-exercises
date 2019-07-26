@@ -10,4 +10,6 @@
 ## Exercise 3 - First commit
 - [X] Add the file to your repo
 - [X] Commit and push
-
+## Exercise 4 - Cause merge conflict
+- [X] Add the file to your repo
+- [X] Commit and push
