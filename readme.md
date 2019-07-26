@@ -7,3 +7,7 @@
 - [X] Visit stackedit.io
 - [X] Start making your Readme.md in this editor
 - [ ] Save this file to your repo
+## Exercise 3 - First commit
+- [X] Add the file to your repo
+- [X] Commit and push
+
